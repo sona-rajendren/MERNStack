@@ -1,19 +1,33 @@
 {
   "name": "server",
   "version": "1.0.0",
+<<<<<<< HEAD
   "description": "",
+=======
+  "description": "backend code",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+>>>>>>> 63cc74c4ef1c149981c8cffb53c0ab98444c825a
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+<<<<<<< HEAD
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
+=======
+>>>>>>> 63cc74c4ef1c149981c8cffb53c0ab98444c825a
   "dependencies": {
     "cors": "^2.8.6",
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
+<<<<<<< HEAD
     "mongoose": "^9.10.0"
+=======
+    "mongoose": "^9.9.2"
+>>>>>>> 63cc74c4ef1c149981c8cffb53c0ab98444c825a
   }
 }
